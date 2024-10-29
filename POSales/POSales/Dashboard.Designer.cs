@@ -77,7 +77,7 @@ namespace POSales
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(968, 142);
+            this.panel1.Size = new System.Drawing.Size(1078, 153);
             this.panel1.TabIndex = 0;
             // 
             // panel8
@@ -88,9 +88,9 @@ namespace POSales
             this.panel8.Controls.Add(this.label11);
             this.panel8.Controls.Add(this.pictureBox4);
             this.panel8.Controls.Add(this.panel9);
-            this.panel8.Location = new System.Drawing.Point(490, 12);
+            this.panel8.Location = new System.Drawing.Point(540, 24);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(227, 114);
+            this.panel8.Size = new System.Drawing.Size(245, 114);
             this.panel8.TabIndex = 3;
             // 
             // lblStockOnHand
@@ -149,9 +149,9 @@ namespace POSales
             this.panel6.Controls.Add(this.label8);
             this.panel6.Controls.Add(this.pictureBox3);
             this.panel6.Controls.Add(this.panel7);
-            this.panel6.Location = new System.Drawing.Point(729, 12);
+            this.panel6.Location = new System.Drawing.Point(795, 24);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(227, 114);
+            this.panel6.Size = new System.Drawing.Size(245, 114);
             this.panel6.TabIndex = 2;
             // 
             // lblCriticalItems
@@ -210,9 +210,9 @@ namespace POSales
             this.panel4.Controls.Add(this.label5);
             this.panel4.Controls.Add(this.pictureBox2);
             this.panel4.Controls.Add(this.panel5);
-            this.panel4.Location = new System.Drawing.Point(251, 12);
+            this.panel4.Location = new System.Drawing.Point(286, 24);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(227, 114);
+            this.panel4.Size = new System.Drawing.Size(245, 114);
             this.panel4.TabIndex = 1;
             // 
             // lblTotalProduct
@@ -271,9 +271,9 @@ namespace POSales
             this.panel2.Controls.Add(this.label1);
             this.panel2.Controls.Add(this.pictureBox1);
             this.panel2.Controls.Add(this.panel3);
-            this.panel2.Location = new System.Drawing.Point(12, 12);
+            this.panel2.Location = new System.Drawing.Point(31, 24);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(227, 114);
+            this.panel2.Size = new System.Drawing.Size(245, 114);
             this.panel2.TabIndex = 0;
             // 
             // lblDalySale
@@ -327,9 +327,9 @@ namespace POSales
             // pictureBox5
             // 
             this.pictureBox5.Image = global::POSales.Properties.Resources.simon_xpress_photos_website_0001_SimonXpress_02_jpg;
-            this.pictureBox5.Location = new System.Drawing.Point(58, 160);
+            this.pictureBox5.Location = new System.Drawing.Point(31, 170);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(842, 401);
+            this.pictureBox5.Size = new System.Drawing.Size(1010, 535);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 1;
             this.pictureBox5.TabStop = false;
@@ -339,7 +339,7 @@ namespace POSales
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(968, 582);
+            this.ClientSize = new System.Drawing.Size(1078, 737);
             this.ControlBox = false;
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.panel1);

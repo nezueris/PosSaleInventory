@@ -40,7 +40,7 @@ namespace POSales
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(11, 18);
+            this.label1.Location = new System.Drawing.Point(17, 18);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(108, 17);
             this.label1.TabIndex = 0;
@@ -49,7 +49,7 @@ namespace POSales
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(11, 50);
+            this.label2.Location = new System.Drawing.Point(17, 50);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(162, 17);
             this.label2.TabIndex = 0;
@@ -57,7 +57,7 @@ namespace POSales
             // 
             // txtResPass
             // 
-            this.txtResPass.Location = new System.Drawing.Point(178, 48);
+            this.txtResPass.Location = new System.Drawing.Point(193, 48);
             this.txtResPass.Name = "txtResPass";
             this.txtResPass.Size = new System.Drawing.Size(233, 23);
             this.txtResPass.TabIndex = 1;
@@ -65,7 +65,7 @@ namespace POSales
             // 
             // txtNpass
             // 
-            this.txtNpass.Location = new System.Drawing.Point(178, 15);
+            this.txtNpass.Location = new System.Drawing.Point(193, 15);
             this.txtNpass.Name = "txtNpass";
             this.txtNpass.Size = new System.Drawing.Size(233, 23);
             this.txtNpass.TabIndex = 1;
@@ -77,7 +77,7 @@ namespace POSales
             this.btnOk.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btnOk.FlatAppearance.BorderSize = 0;
             this.btnOk.ForeColor = System.Drawing.Color.Black;
-            this.btnOk.Location = new System.Drawing.Point(222, 89);
+            this.btnOk.Location = new System.Drawing.Point(237, 99);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(89, 30);
             this.btnOk.TabIndex = 23;
@@ -91,7 +91,7 @@ namespace POSales
             this.btnCancel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.btnCancel.FlatAppearance.BorderSize = 0;
             this.btnCancel.ForeColor = System.Drawing.Color.Black;
-            this.btnCancel.Location = new System.Drawing.Point(322, 89);
+            this.btnCancel.Location = new System.Drawing.Point(337, 99);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(89, 30);
             this.btnCancel.TabIndex = 24;
@@ -103,7 +103,7 @@ namespace POSales
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(421, 129);
+            this.ClientSize = new System.Drawing.Size(449, 142);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.txtNpass);

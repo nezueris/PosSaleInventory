@@ -72,7 +72,7 @@ namespace POSales
             this.dgvProduct.Location = new System.Drawing.Point(0, 0);
             this.dgvProduct.Name = "dgvProduct";
             this.dgvProduct.RowHeadersVisible = false;
-            this.dgvProduct.Size = new System.Drawing.Size(716, 508);
+            this.dgvProduct.Size = new System.Drawing.Size(771, 508);
             this.dgvProduct.TabIndex = 5;
             this.dgvProduct.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvProduct_CellContentClick);
             // 
@@ -121,7 +121,7 @@ namespace POSales
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel1.Location = new System.Drawing.Point(0, 508);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(716, 80);
+            this.panel1.Size = new System.Drawing.Size(771, 80);
             this.panel1.TabIndex = 4;
             // 
             // btnClose
@@ -131,7 +131,7 @@ namespace POSales
             this.btnClose.FlatAppearance.BorderSize = 0;
             this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnClose.ForeColor = System.Drawing.Color.White;
-            this.btnClose.Location = new System.Drawing.Point(622, 20);
+            this.btnClose.Location = new System.Drawing.Point(677, 25);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(82, 35);
             this.btnClose.TabIndex = 14;
@@ -156,7 +156,7 @@ namespace POSales
             this.txtSearch.DisplayIcon = true;
             this.txtSearch.Icon = ((System.Drawing.Image)(resources.GetObject("txtSearch.Icon")));
             this.txtSearch.Lines = new string[0];
-            this.txtSearch.Location = new System.Drawing.Point(177, 28);
+            this.txtSearch.Location = new System.Drawing.Point(226, 28);
             this.txtSearch.MaxLength = 32767;
             this.txtSearch.Multiline = true;
             this.txtSearch.Name = "txtSearch";
@@ -194,7 +194,7 @@ namespace POSales
             this.label1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label1.Location = new System.Drawing.Point(7, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(107, 43);
+            this.label1.Size = new System.Drawing.Size(182, 43);
             this.label1.TabIndex = 0;
             this.label1.Text = "Product Stock In";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -203,7 +203,7 @@ namespace POSales
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(716, 588);
+            this.ClientSize = new System.Drawing.Size(771, 588);
             this.ControlBox = false;
             this.Controls.Add(this.dgvProduct);
             this.Controls.Add(this.panel1);

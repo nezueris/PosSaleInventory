@@ -53,14 +53,14 @@ namespace POSales
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(447, 50);
+            this.panel1.Size = new System.Drawing.Size(517, 50);
             this.panel1.TabIndex = 8;
             // 
             // picClose
             // 
             this.picClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.picClose.Image = ((System.Drawing.Image)(resources.GetObject("picClose.Image")));
-            this.picClose.Location = new System.Drawing.Point(418, 0);
+            this.picClose.Location = new System.Drawing.Point(488, 0);
             this.picClose.Name = "picClose";
             this.picClose.Size = new System.Drawing.Size(30, 35);
             this.picClose.TabIndex = 1;
@@ -93,7 +93,7 @@ namespace POSales
             // 
             // 
             this.txtPass.CustomButton.Image = null;
-            this.txtPass.CustomButton.Location = new System.Drawing.Point(331, 1);
+            this.txtPass.CustomButton.Location = new System.Drawing.Point(405, 1);
             this.txtPass.CustomButton.Name = "";
             this.txtPass.CustomButton.Size = new System.Drawing.Size(29, 29);
             this.txtPass.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -114,7 +114,7 @@ namespace POSales
             this.txtPass.SelectionLength = 0;
             this.txtPass.SelectionStart = 0;
             this.txtPass.ShortcutsEnabled = true;
-            this.txtPass.Size = new System.Drawing.Size(361, 31);
+            this.txtPass.Size = new System.Drawing.Size(435, 31);
             this.txtPass.TabIndex = 11;
             this.txtPass.UseSelectable = true;
             this.txtPass.UseSystemPasswordChar = true;
@@ -139,7 +139,7 @@ namespace POSales
             this.btnSave.FlatAppearance.BorderSize = 0;
             this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSave.ForeColor = System.Drawing.Color.White;
-            this.btnSave.Location = new System.Drawing.Point(315, 252);
+            this.btnSave.Location = new System.Drawing.Point(385, 252);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(94, 35);
             this.btnSave.TabIndex = 13;
@@ -154,7 +154,7 @@ namespace POSales
             // 
             // 
             this.txtNewPass.CustomButton.Image = null;
-            this.txtNewPass.CustomButton.Location = new System.Drawing.Point(331, 1);
+            this.txtNewPass.CustomButton.Location = new System.Drawing.Point(405, 1);
             this.txtNewPass.CustomButton.Name = "";
             this.txtNewPass.CustomButton.Size = new System.Drawing.Size(29, 29);
             this.txtNewPass.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -175,7 +175,7 @@ namespace POSales
             this.txtNewPass.SelectionLength = 0;
             this.txtNewPass.SelectionStart = 0;
             this.txtNewPass.ShortcutsEnabled = true;
-            this.txtNewPass.Size = new System.Drawing.Size(361, 31);
+            this.txtNewPass.Size = new System.Drawing.Size(435, 31);
             this.txtNewPass.TabIndex = 14;
             this.txtNewPass.UseSelectable = true;
             this.txtNewPass.UseSystemPasswordChar = true;
@@ -190,7 +190,7 @@ namespace POSales
             // 
             // 
             this.txtComPass.CustomButton.Image = null;
-            this.txtComPass.CustomButton.Location = new System.Drawing.Point(331, 1);
+            this.txtComPass.CustomButton.Location = new System.Drawing.Point(405, 1);
             this.txtComPass.CustomButton.Name = "";
             this.txtComPass.CustomButton.Size = new System.Drawing.Size(29, 29);
             this.txtComPass.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -211,7 +211,7 @@ namespace POSales
             this.txtComPass.SelectionLength = 0;
             this.txtComPass.SelectionStart = 0;
             this.txtComPass.ShortcutsEnabled = true;
-            this.txtComPass.Size = new System.Drawing.Size(361, 31);
+            this.txtComPass.Size = new System.Drawing.Size(435, 31);
             this.txtComPass.TabIndex = 15;
             this.txtComPass.UseSelectable = true;
             this.txtComPass.UseSystemPasswordChar = true;
@@ -227,7 +227,7 @@ namespace POSales
             this.btnNext.FlatAppearance.BorderSize = 0;
             this.btnNext.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNext.ForeColor = System.Drawing.Color.White;
-            this.btnNext.Location = new System.Drawing.Point(315, 252);
+            this.btnNext.Location = new System.Drawing.Point(385, 252);
             this.btnNext.Name = "btnNext";
             this.btnNext.Size = new System.Drawing.Size(94, 35);
             this.btnNext.TabIndex = 16;
@@ -239,7 +239,7 @@ namespace POSales
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(447, 299);
+            this.ClientSize = new System.Drawing.Size(517, 305);
             this.Controls.Add(this.btnNext);
             this.Controls.Add(this.txtComPass);
             this.Controls.Add(this.btnSave);

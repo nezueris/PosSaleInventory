@@ -56,7 +56,7 @@ namespace POSales
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(950, 67);
+            this.panel1.Size = new System.Drawing.Size(1150, 67);
             this.panel1.TabIndex = 8;
             // 
             // pictureBox1
@@ -72,9 +72,10 @@ namespace POSales
             // 
             this.picClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.picClose.Image = ((System.Drawing.Image)(resources.GetObject("picClose.Image")));
-            this.picClose.Location = new System.Drawing.Point(921, 0);
+            this.picClose.Location = new System.Drawing.Point(1104, 0);
             this.picClose.Name = "picClose";
-            this.picClose.Size = new System.Drawing.Size(30, 35);
+            this.picClose.Size = new System.Drawing.Size(47, 67);
+            this.picClose.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.picClose.TabIndex = 1;
             this.picClose.TabStop = false;
             this.picClose.Click += new System.EventHandler(this.picClose_Click);
@@ -84,7 +85,7 @@ namespace POSales
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(67, 19);
+            this.label1.Location = new System.Drawing.Point(67, 16);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(201, 36);
             this.label1.TabIndex = 0;
@@ -93,9 +94,10 @@ namespace POSales
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(425, 151);
+            this.pictureBox2.Location = new System.Drawing.Point(521, 155);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox2.Size = new System.Drawing.Size(123, 123);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 9;
             this.pictureBox2.TabStop = false;
             // 
@@ -105,7 +107,7 @@ namespace POSales
             // 
             // 
             this.txtName.CustomButton.Image = null;
-            this.txtName.CustomButton.Location = new System.Drawing.Point(238, 1);
+            this.txtName.CustomButton.Location = new System.Drawing.Point(285, 1);
             this.txtName.CustomButton.Name = "";
             this.txtName.CustomButton.Size = new System.Drawing.Size(29, 29);
             this.txtName.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -114,9 +116,10 @@ namespace POSales
             this.txtName.CustomButton.UseSelectable = true;
             this.txtName.CustomButton.Visible = false;
             this.txtName.DisplayIcon = true;
+            this.txtName.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.txtName.Icon = ((System.Drawing.Image)(resources.GetObject("txtName.Icon")));
             this.txtName.Lines = new string[0];
-            this.txtName.Location = new System.Drawing.Point(341, 320);
+            this.txtName.Location = new System.Drawing.Point(415, 351);
             this.txtName.MaxLength = 32767;
             this.txtName.Multiline = true;
             this.txtName.Name = "txtName";
@@ -127,7 +130,7 @@ namespace POSales
             this.txtName.SelectionLength = 0;
             this.txtName.SelectionStart = 0;
             this.txtName.ShortcutsEnabled = true;
-            this.txtName.Size = new System.Drawing.Size(268, 31);
+            this.txtName.Size = new System.Drawing.Size(315, 31);
             this.txtName.TabIndex = 10;
             this.txtName.UseSelectable = true;
             this.txtName.WaterMark = "Username";
@@ -138,7 +141,7 @@ namespace POSales
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Century Schoolbook", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(369, 265);
+            this.label2.Location = new System.Drawing.Point(475, 289);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(212, 25);
             this.label2.TabIndex = 11;
@@ -150,7 +153,7 @@ namespace POSales
             // 
             // 
             this.txtPass.CustomButton.Image = null;
-            this.txtPass.CustomButton.Location = new System.Drawing.Point(238, 1);
+            this.txtPass.CustomButton.Location = new System.Drawing.Point(285, 1);
             this.txtPass.CustomButton.Name = "";
             this.txtPass.CustomButton.Size = new System.Drawing.Size(29, 29);
             this.txtPass.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -159,9 +162,10 @@ namespace POSales
             this.txtPass.CustomButton.UseSelectable = true;
             this.txtPass.CustomButton.Visible = false;
             this.txtPass.DisplayIcon = true;
+            this.txtPass.FontSize = MetroFramework.MetroTextBoxSize.Medium;
             this.txtPass.Icon = ((System.Drawing.Image)(resources.GetObject("txtPass.Icon")));
             this.txtPass.Lines = new string[0];
-            this.txtPass.Location = new System.Drawing.Point(341, 371);
+            this.txtPass.Location = new System.Drawing.Point(415, 402);
             this.txtPass.MaxLength = 32767;
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '●';
@@ -171,7 +175,7 @@ namespace POSales
             this.txtPass.SelectionLength = 0;
             this.txtPass.SelectionStart = 0;
             this.txtPass.ShortcutsEnabled = true;
-            this.txtPass.Size = new System.Drawing.Size(268, 31);
+            this.txtPass.Size = new System.Drawing.Size(315, 31);
             this.txtPass.TabIndex = 10;
             this.txtPass.UseSelectable = true;
             this.txtPass.UseSystemPasswordChar = true;
@@ -186,10 +190,11 @@ namespace POSales
             this.btnLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
             this.btnLogin.FlatAppearance.BorderSize = 0;
             this.btnLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin.ForeColor = System.Drawing.Color.White;
-            this.btnLogin.Location = new System.Drawing.Point(341, 426);
+            this.btnLogin.Location = new System.Drawing.Point(415, 470);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(268, 31);
+            this.btnLogin.Size = new System.Drawing.Size(315, 38);
             this.btnLogin.TabIndex = 12;
             this.btnLogin.Text = "Login";
             this.btnLogin.UseVisualStyleBackColor = false;
@@ -201,11 +206,11 @@ namespace POSales
             this.btnCancel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.btnCancel.FlatAppearance.BorderSize = 0;
             this.btnCancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCancel.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancel.ForeColor = System.Drawing.Color.White;
-            this.btnCancel.Location = new System.Drawing.Point(341, 463);
+            this.btnCancel.Location = new System.Drawing.Point(415, 518);
             this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(268, 31);
+            this.btnCancel.Size = new System.Drawing.Size(315, 38);
             this.btnCancel.TabIndex = 12;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = false;
@@ -224,7 +229,7 @@ namespace POSales
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(950, 650);
+            this.ClientSize = new System.Drawing.Size(1150, 690);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.btnCancel);

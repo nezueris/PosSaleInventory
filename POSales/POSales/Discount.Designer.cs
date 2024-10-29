@@ -90,7 +90,7 @@ namespace POSales
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(12, 110);
+            this.label3.Location = new System.Drawing.Point(12, 113);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(106, 20);
             this.label3.TabIndex = 9;
@@ -99,7 +99,7 @@ namespace POSales
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(12, 146);
+            this.label4.Location = new System.Drawing.Point(12, 152);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(141, 20);
             this.label4.TabIndex = 9;
@@ -115,7 +115,7 @@ namespace POSales
             // 
             // txtDiscount
             // 
-            this.txtDiscount.Location = new System.Drawing.Point(157, 107);
+            this.txtDiscount.Location = new System.Drawing.Point(157, 110);
             this.txtDiscount.Name = "txtDiscount";
             this.txtDiscount.Size = new System.Drawing.Size(457, 26);
             this.txtDiscount.TabIndex = 10;
@@ -124,7 +124,7 @@ namespace POSales
             // txtDiscAmount
             // 
             this.txtDiscAmount.Enabled = false;
-            this.txtDiscAmount.Location = new System.Drawing.Point(157, 143);
+            this.txtDiscAmount.Location = new System.Drawing.Point(157, 149);
             this.txtDiscAmount.Name = "txtDiscAmount";
             this.txtDiscAmount.Size = new System.Drawing.Size(457, 26);
             this.txtDiscAmount.TabIndex = 10;
@@ -132,7 +132,7 @@ namespace POSales
             // lbId
             // 
             this.lbId.AutoSize = true;
-            this.lbId.Location = new System.Drawing.Point(12, 184);
+            this.lbId.Location = new System.Drawing.Point(12, 188);
             this.lbId.Name = "lbId";
             this.lbId.Size = new System.Drawing.Size(22, 20);
             this.lbId.TabIndex = 9;
@@ -146,7 +146,7 @@ namespace POSales
             this.btnSave.FlatAppearance.BorderSize = 0;
             this.btnSave.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSave.ForeColor = System.Drawing.Color.White;
-            this.btnSave.Location = new System.Drawing.Point(520, 184);
+            this.btnSave.Location = new System.Drawing.Point(520, 200);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(94, 35);
             this.btnSave.TabIndex = 11;
@@ -159,7 +159,7 @@ namespace POSales
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(639, 227);
+            this.ClientSize = new System.Drawing.Size(639, 251);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.txtDiscAmount);
             this.Controls.Add(this.txtDiscount);

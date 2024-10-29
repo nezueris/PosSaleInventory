@@ -191,7 +191,7 @@ namespace POSales
             this.label1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label1.Location = new System.Drawing.Point(7, 7);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(114, 43);
+            this.label1.Size = new System.Drawing.Size(175, 43);
             this.label1.TabIndex = 0;
             this.label1.Text = "Manage Record";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;

@@ -46,14 +46,14 @@ namespace POSales
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1019, 50);
+            this.panel1.Size = new System.Drawing.Size(1027, 50);
             this.panel1.TabIndex = 18;
             // 
             // picClose
             // 
             this.picClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.picClose.Image = ((System.Drawing.Image)(resources.GetObject("picClose.Image")));
-            this.picClose.Location = new System.Drawing.Point(990, 0);
+            this.picClose.Location = new System.Drawing.Point(998, 0);
             this.picClose.Name = "picClose";
             this.picClose.Size = new System.Drawing.Size(30, 35);
             this.picClose.TabIndex = 1;
@@ -66,7 +66,7 @@ namespace POSales
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(339, 15);
+            this.label1.Location = new System.Drawing.Point(343, 15);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(327, 18);
             this.label1.TabIndex = 0;
@@ -78,7 +78,7 @@ namespace POSales
             this.reportViewer1.Location = new System.Drawing.Point(0, 50);
             this.reportViewer1.Name = "reportViewer1";
             this.reportViewer1.ServerReport.BearerToken = null;
-            this.reportViewer1.Size = new System.Drawing.Size(1019, 536);
+            this.reportViewer1.Size = new System.Drawing.Size(1027, 573);
             this.reportViewer1.TabIndex = 19;
             // 
             // POSReport
@@ -86,7 +86,7 @@ namespace POSales
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1019, 586);
+            this.ClientSize = new System.Drawing.Size(1027, 623);
             this.Controls.Add(this.reportViewer1);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

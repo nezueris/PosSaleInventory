@@ -48,14 +48,14 @@ namespace POSales
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(410, 50);
+            this.panel1.Size = new System.Drawing.Size(449, 50);
             this.panel1.TabIndex = 8;
             // 
             // picClose
             // 
             this.picClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.picClose.Image = ((System.Drawing.Image)(resources.GetObject("picClose.Image")));
-            this.picClose.Location = new System.Drawing.Point(381, 0);
+            this.picClose.Location = new System.Drawing.Point(420, 0);
             this.picClose.Name = "picClose";
             this.picClose.Size = new System.Drawing.Size(30, 35);
             this.picClose.TabIndex = 1;
@@ -79,7 +79,7 @@ namespace POSales
             // 
             // 
             this.txtUsername.CustomButton.Image = null;
-            this.txtUsername.CustomButton.Location = new System.Drawing.Point(238, 1);
+            this.txtUsername.CustomButton.Location = new System.Drawing.Point(277, 1);
             this.txtUsername.CustomButton.Name = "";
             this.txtUsername.CustomButton.Size = new System.Drawing.Size(29, 29);
             this.txtUsername.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -90,7 +90,7 @@ namespace POSales
             this.txtUsername.DisplayIcon = true;
             this.txtUsername.Icon = ((System.Drawing.Image)(resources.GetObject("txtUsername.Icon")));
             this.txtUsername.Lines = new string[0];
-            this.txtUsername.Location = new System.Drawing.Point(71, 75);
+            this.txtUsername.Location = new System.Drawing.Point(71, 86);
             this.txtUsername.MaxLength = 32767;
             this.txtUsername.Multiline = true;
             this.txtUsername.Name = "txtUsername";
@@ -101,7 +101,7 @@ namespace POSales
             this.txtUsername.SelectionLength = 0;
             this.txtUsername.SelectionStart = 0;
             this.txtUsername.ShortcutsEnabled = true;
-            this.txtUsername.Size = new System.Drawing.Size(268, 31);
+            this.txtUsername.Size = new System.Drawing.Size(307, 31);
             this.txtUsername.TabIndex = 12;
             this.txtUsername.UseSelectable = true;
             this.txtUsername.WaterMark = "Username";
@@ -114,7 +114,7 @@ namespace POSales
             // 
             // 
             this.txtPass.CustomButton.Image = null;
-            this.txtPass.CustomButton.Location = new System.Drawing.Point(238, 1);
+            this.txtPass.CustomButton.Location = new System.Drawing.Point(277, 1);
             this.txtPass.CustomButton.Name = "";
             this.txtPass.CustomButton.Size = new System.Drawing.Size(29, 29);
             this.txtPass.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -125,7 +125,7 @@ namespace POSales
             this.txtPass.DisplayIcon = true;
             this.txtPass.Icon = ((System.Drawing.Image)(resources.GetObject("txtPass.Icon")));
             this.txtPass.Lines = new string[0];
-            this.txtPass.Location = new System.Drawing.Point(71, 126);
+            this.txtPass.Location = new System.Drawing.Point(71, 137);
             this.txtPass.MaxLength = 32767;
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '●';
@@ -135,7 +135,7 @@ namespace POSales
             this.txtPass.SelectionLength = 0;
             this.txtPass.SelectionStart = 0;
             this.txtPass.ShortcutsEnabled = true;
-            this.txtPass.Size = new System.Drawing.Size(268, 31);
+            this.txtPass.Size = new System.Drawing.Size(307, 31);
             this.txtPass.TabIndex = 11;
             this.txtPass.UseSelectable = true;
             this.txtPass.UseSystemPasswordChar = true;
@@ -150,9 +150,9 @@ namespace POSales
             this.btnVoid.FlatAppearance.BorderSize = 0;
             this.btnVoid.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnVoid.ForeColor = System.Drawing.Color.White;
-            this.btnVoid.Location = new System.Drawing.Point(71, 179);
+            this.btnVoid.Location = new System.Drawing.Point(71, 200);
             this.btnVoid.Name = "btnVoid";
-            this.btnVoid.Size = new System.Drawing.Size(268, 31);
+            this.btnVoid.Size = new System.Drawing.Size(307, 31);
             this.btnVoid.TabIndex = 13;
             this.btnVoid.Text = "Void";
             this.btnVoid.UseVisualStyleBackColor = false;
@@ -163,7 +163,7 @@ namespace POSales
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnablePreventFocusChange;
-            this.ClientSize = new System.Drawing.Size(410, 243);
+            this.ClientSize = new System.Drawing.Size(449, 266);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.txtPass);
