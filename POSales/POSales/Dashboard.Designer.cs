@@ -77,12 +77,12 @@ namespace POSales
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1078, 153);
+            this.panel1.Size = new System.Drawing.Size(1073, 153);
             this.panel1.TabIndex = 0;
             // 
             // panel8
             // 
-            this.panel8.BackColor = System.Drawing.Color.DarkSlateBlue;
+            this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(182)))), ((int)(((byte)(136)))), ((int)(((byte)(71)))));
             this.panel8.Controls.Add(this.lblStockOnHand);
             this.panel8.Controls.Add(this.label10);
             this.panel8.Controls.Add(this.label11);
@@ -97,7 +97,7 @@ namespace POSales
             // 
             this.lblStockOnHand.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblStockOnHand.ForeColor = System.Drawing.Color.White;
-            this.lblStockOnHand.Location = new System.Drawing.Point(71, 9);
+            this.lblStockOnHand.Location = new System.Drawing.Point(88, 10);
             this.lblStockOnHand.Name = "lblStockOnHand";
             this.lblStockOnHand.Size = new System.Drawing.Size(140, 20);
             this.lblStockOnHand.TabIndex = 2;
@@ -136,14 +136,14 @@ namespace POSales
             // panel9
             // 
             this.panel9.BackColor = System.Drawing.Color.White;
-            this.panel9.Location = new System.Drawing.Point(60, 9);
+            this.panel9.Location = new System.Drawing.Point(60, 8);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(5, 100);
             this.panel9.TabIndex = 1;
             // 
             // panel6
             // 
-            this.panel6.BackColor = System.Drawing.Color.Firebrick;
+            this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(143)))), ((int)(((byte)(47)))), ((int)(((byte)(45)))));
             this.panel6.Controls.Add(this.lblCriticalItems);
             this.panel6.Controls.Add(this.label7);
             this.panel6.Controls.Add(this.label8);
@@ -158,7 +158,7 @@ namespace POSales
             // 
             this.lblCriticalItems.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCriticalItems.ForeColor = System.Drawing.Color.White;
-            this.lblCriticalItems.Location = new System.Drawing.Point(71, 9);
+            this.lblCriticalItems.Location = new System.Drawing.Point(87, 10);
             this.lblCriticalItems.Name = "lblCriticalItems";
             this.lblCriticalItems.Size = new System.Drawing.Size(140, 20);
             this.lblCriticalItems.TabIndex = 2;
@@ -197,7 +197,7 @@ namespace POSales
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.Color.White;
-            this.panel7.Location = new System.Drawing.Point(60, 9);
+            this.panel7.Location = new System.Drawing.Point(60, 8);
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(5, 100);
             this.panel7.TabIndex = 1;
@@ -219,7 +219,7 @@ namespace POSales
             // 
             this.lblTotalProduct.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTotalProduct.ForeColor = System.Drawing.Color.White;
-            this.lblTotalProduct.Location = new System.Drawing.Point(71, 9);
+            this.lblTotalProduct.Location = new System.Drawing.Point(90, 10);
             this.lblTotalProduct.Name = "lblTotalProduct";
             this.lblTotalProduct.Size = new System.Drawing.Size(140, 20);
             this.lblTotalProduct.TabIndex = 2;
@@ -258,14 +258,14 @@ namespace POSales
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.White;
-            this.panel5.Location = new System.Drawing.Point(60, 9);
+            this.panel5.Location = new System.Drawing.Point(60, 8);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(5, 100);
             this.panel5.TabIndex = 1;
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.ForestGreen;
+            this.panel2.BackColor = System.Drawing.Color.DarkSlateGray;
             this.panel2.Controls.Add(this.lblDalySale);
             this.panel2.Controls.Add(this.label2);
             this.panel2.Controls.Add(this.label1);
@@ -280,7 +280,7 @@ namespace POSales
             // 
             this.lblDalySale.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDalySale.ForeColor = System.Drawing.Color.White;
-            this.lblDalySale.Location = new System.Drawing.Point(71, 9);
+            this.lblDalySale.Location = new System.Drawing.Point(93, 10);
             this.lblDalySale.Name = "lblDalySale";
             this.lblDalySale.Size = new System.Drawing.Size(140, 20);
             this.lblDalySale.TabIndex = 2;
@@ -319,7 +319,7 @@ namespace POSales
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.White;
-            this.panel3.Location = new System.Drawing.Point(60, 9);
+            this.panel3.Location = new System.Drawing.Point(60, 8);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(5, 100);
             this.panel3.TabIndex = 1;
@@ -327,9 +327,9 @@ namespace POSales
             // pictureBox5
             // 
             this.pictureBox5.Image = global::POSales.Properties.Resources.simon_xpress_photos_website_0001_SimonXpress_02_jpg;
-            this.pictureBox5.Location = new System.Drawing.Point(31, 170);
+            this.pictureBox5.Location = new System.Drawing.Point(31, 159);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(1010, 535);
+            this.pictureBox5.Size = new System.Drawing.Size(1009, 485);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 1;
             this.pictureBox5.TabStop = false;
@@ -339,7 +339,7 @@ namespace POSales
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1078, 737);
+            this.ClientSize = new System.Drawing.Size(1073, 666);
             this.ControlBox = false;
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.panel1);
