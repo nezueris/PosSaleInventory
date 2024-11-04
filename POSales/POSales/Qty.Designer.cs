@@ -35,7 +35,7 @@ namespace POSales
             // txtQty
             // 
             this.txtQty.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtQty.Font = new System.Drawing.Font("Century Gothic", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtQty.Font = new System.Drawing.Font("Century Gothic", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtQty.Location = new System.Drawing.Point(0, 0);
             this.txtQty.Multiline = true;
             this.txtQty.Name = "txtQty";
@@ -52,14 +52,14 @@ namespace POSales
             this.ClientSize = new System.Drawing.Size(146, 45);
             this.Controls.Add(this.txtQty);
             this.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.KeyPreview = true;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Qty";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Qty";
+            this.Text = "Quantity";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Qty_KeyDown);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -72,6 +72,7 @@ namespace POSales
             // panelSlide
             // 
             this.panelSlide.AutoScroll = true;
+            this.panelSlide.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(74)))), ((int)(((byte)(61)))));
             this.panelSlide.Controls.Add(this.btnLogout);
             this.panelSlide.Controls.Add(this.panelSubSetting);
             this.panelSlide.Controls.Add(this.btnSetting);
@@ -87,7 +88,7 @@ namespace POSales
             this.panelSlide.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelSlide.Location = new System.Drawing.Point(0, 0);
             this.panelSlide.Name = "panelSlide";
-            this.panelSlide.Size = new System.Drawing.Size(265, 791);
+            this.panelSlide.Size = new System.Drawing.Size(265, 751);
             this.panelSlide.TabIndex = 0;
             // 
             // btnLogout
@@ -109,7 +110,7 @@ namespace POSales
             // 
             // panelSubSetting
             // 
-            this.panelSubSetting.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            this.panelSubSetting.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(93)))), ((int)(((byte)(77)))));
             this.panelSubSetting.Controls.Add(this.btnStore);
             this.panelSubSetting.Controls.Add(this.btnUser);
             this.panelSubSetting.Dock = System.Windows.Forms.DockStyle.Top;
@@ -171,7 +172,7 @@ namespace POSales
             // 
             // panelSubRecord
             // 
-            this.panelSubRecord.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            this.panelSubRecord.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(93)))), ((int)(((byte)(77)))));
             this.panelSubRecord.Controls.Add(this.btnPosRecord);
             this.panelSubRecord.Controls.Add(this.btnSaleHist);
             this.panelSubRecord.Dock = System.Windows.Forms.DockStyle.Top;
@@ -250,7 +251,7 @@ namespace POSales
             // 
             // panelSubStock
             // 
-            this.panelSubStock.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            this.panelSubStock.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(93)))), ((int)(((byte)(77)))));
             this.panelSubStock.Controls.Add(this.btnStockAdjustment);
             this.panelSubStock.Controls.Add(this.btnStockEntry);
             this.panelSubStock.Dock = System.Windows.Forms.DockStyle.Top;
@@ -312,7 +313,7 @@ namespace POSales
             // 
             // panelSubProduct
             // 
-            this.panelSubProduct.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            this.panelSubProduct.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(53)))), ((int)(((byte)(93)))), ((int)(((byte)(77)))));
             this.panelSubProduct.Controls.Add(this.btnBrand);
             this.panelSubProduct.Controls.Add(this.btnCategory);
             this.panelSubProduct.Controls.Add(this.btnProductList);
@@ -409,6 +410,7 @@ namespace POSales
             // 
             // panelLogo
             // 
+            this.panelLogo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(74)))), ((int)(((byte)(61)))));
             this.panelLogo.Controls.Add(this.lblName);
             this.panelLogo.Controls.Add(this.lblUsername);
             this.panelLogo.Controls.Add(this.lblRole);
@@ -434,7 +436,7 @@ namespace POSales
             // 
             this.lblUsername.AutoSize = true;
             this.lblUsername.ForeColor = System.Drawing.Color.White;
-            this.lblUsername.Location = new System.Drawing.Point(60, 141);
+            this.lblUsername.Location = new System.Drawing.Point(69, 139);
             this.lblUsername.Name = "lblUsername";
             this.lblUsername.Size = new System.Drawing.Size(85, 20);
             this.lblUsername.TabIndex = 0;
@@ -462,15 +464,18 @@ namespace POSales
             // 
             // panelTitle
             // 
+            this.panelTitle.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panelTitle.BackgroundImage")));
+            this.panelTitle.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panelTitle.Controls.Add(this.lblTitle);
             this.panelTitle.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelTitle.Location = new System.Drawing.Point(265, 0);
             this.panelTitle.Name = "panelTitle";
-            this.panelTitle.Size = new System.Drawing.Size(1069, 46);
+            this.panelTitle.Size = new System.Drawing.Size(1075, 46);
             this.panelTitle.TabIndex = 1;
             // 
             // lblTitle
             // 
+            this.lblTitle.BackColor = System.Drawing.Color.Transparent;
             this.lblTitle.Font = new System.Drawing.Font("Century Schoolbook", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.Color.White;
             this.lblTitle.Location = new System.Drawing.Point(316, 4);
@@ -482,19 +487,21 @@ namespace POSales
             // 
             // panelMain
             // 
+            this.panelMain.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.panelMain.BackColor = System.Drawing.Color.White;
-            this.panelMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelMain.Location = new System.Drawing.Point(265, 46);
             this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(1069, 745);
+            this.panelMain.Size = new System.Drawing.Size(1075, 705);
             this.panelMain.TabIndex = 2;
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
-            this.ClientSize = new System.Drawing.Size(1334, 791);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(103)))), ((int)(((byte)(114)))), ((int)(((byte)(71)))));
+            this.ClientSize = new System.Drawing.Size(1340, 751);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.panelTitle);
             this.Controls.Add(this.panelSlide);

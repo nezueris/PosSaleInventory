@@ -86,7 +86,7 @@ namespace POSales
             // 
             // btnSeven
             // 
-            this.btnSeven.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnSeven.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnSeven.ForeColor = System.Drawing.Color.White;
             this.btnSeven.Location = new System.Drawing.Point(12, 130);
             this.btnSeven.Name = "btnSeven";
@@ -98,7 +98,7 @@ namespace POSales
             // 
             // btnEight
             // 
-            this.btnEight.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnEight.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnEight.ForeColor = System.Drawing.Color.White;
             this.btnEight.Location = new System.Drawing.Point(68, 130);
             this.btnEight.Name = "btnEight";
@@ -110,7 +110,7 @@ namespace POSales
             // 
             // btnNine
             // 
-            this.btnNine.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnNine.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnNine.ForeColor = System.Drawing.Color.White;
             this.btnNine.Location = new System.Drawing.Point(124, 130);
             this.btnNine.Name = "btnNine";
@@ -122,7 +122,7 @@ namespace POSales
             // 
             // btnClear
             // 
-            this.btnClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnClear.BackColor = System.Drawing.Color.Olive;
             this.btnClear.ForeColor = System.Drawing.Color.White;
             this.btnClear.Location = new System.Drawing.Point(180, 130);
             this.btnClear.Name = "btnClear";
@@ -134,7 +134,7 @@ namespace POSales
             // 
             // btnFour
             // 
-            this.btnFour.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnFour.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnFour.ForeColor = System.Drawing.Color.White;
             this.btnFour.Location = new System.Drawing.Point(12, 186);
             this.btnFour.Name = "btnFour";
@@ -146,7 +146,7 @@ namespace POSales
             // 
             // btnFive
             // 
-            this.btnFive.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnFive.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnFive.ForeColor = System.Drawing.Color.White;
             this.btnFive.Location = new System.Drawing.Point(68, 186);
             this.btnFive.Name = "btnFive";
@@ -158,7 +158,7 @@ namespace POSales
             // 
             // btnSix
             // 
-            this.btnSix.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnSix.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnSix.ForeColor = System.Drawing.Color.White;
             this.btnSix.Location = new System.Drawing.Point(124, 186);
             this.btnSix.Name = "btnSix";
@@ -170,7 +170,7 @@ namespace POSales
             // 
             // btnZero
             // 
-            this.btnZero.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnZero.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnZero.ForeColor = System.Drawing.Color.White;
             this.btnZero.Location = new System.Drawing.Point(180, 186);
             this.btnZero.Name = "btnZero";
@@ -182,7 +182,7 @@ namespace POSales
             // 
             // btnOne
             // 
-            this.btnOne.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnOne.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnOne.ForeColor = System.Drawing.Color.White;
             this.btnOne.Location = new System.Drawing.Point(12, 242);
             this.btnOne.Name = "btnOne";
@@ -194,7 +194,7 @@ namespace POSales
             // 
             // btnTwo
             // 
-            this.btnTwo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnTwo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnTwo.ForeColor = System.Drawing.Color.White;
             this.btnTwo.Location = new System.Drawing.Point(68, 242);
             this.btnTwo.Name = "btnTwo";
@@ -206,7 +206,7 @@ namespace POSales
             // 
             // btnThree
             // 
-            this.btnThree.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnThree.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnThree.ForeColor = System.Drawing.Color.White;
             this.btnThree.Location = new System.Drawing.Point(124, 242);
             this.btnThree.Name = "btnThree";
@@ -218,7 +218,7 @@ namespace POSales
             // 
             // btnDZero
             // 
-            this.btnDZero.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnDZero.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(37)))), ((int)(((byte)(37)))));
             this.btnDZero.ForeColor = System.Drawing.Color.White;
             this.btnDZero.Location = new System.Drawing.Point(180, 242);
             this.btnDZero.Name = "btnDZero";
@@ -230,7 +230,7 @@ namespace POSales
             // 
             // btnEnter
             // 
-            this.btnEnter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnEnter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(89)))), ((int)(((byte)(64)))));
             this.btnEnter.ForeColor = System.Drawing.Color.White;
             this.btnEnter.Location = new System.Drawing.Point(12, 298);
             this.btnEnter.Name = "btnEnter";

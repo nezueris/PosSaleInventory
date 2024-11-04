@@ -69,7 +69,7 @@ namespace POSales
             // 
             // panel1
             // 
-            panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(89)))), ((int)(((byte)(64)))));
             panel1.Controls.Add(this.picClose);
             panel1.Controls.Add(this.label1);
             panel1.Dock = System.Windows.Forms.DockStyle.Top;
@@ -82,9 +82,10 @@ namespace POSales
             // 
             this.picClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.picClose.Image = ((System.Drawing.Image)(resources.GetObject("picClose.Image")));
-            this.picClose.Location = new System.Drawing.Point(865, 0);
+            this.picClose.Location = new System.Drawing.Point(854, 0);
             this.picClose.Name = "picClose";
-            this.picClose.Size = new System.Drawing.Size(30, 35);
+            this.picClose.Size = new System.Drawing.Size(40, 50);
+            this.picClose.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.picClose.TabIndex = 1;
             this.picClose.TabStop = false;
             this.picClose.Click += new System.EventHandler(this.picClose_Click);
@@ -94,7 +95,7 @@ namespace POSales
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(3, 12);
+            this.label1.Location = new System.Drawing.Point(8, 14);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(157, 18);
             this.label1.TabIndex = 0;
@@ -334,11 +335,11 @@ namespace POSales
             // btnCOrder
             // 
             this.btnCOrder.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCOrder.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(160)))));
+            this.btnCOrder.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(89)))), ((int)(((byte)(64)))));
             this.btnCOrder.FlatAppearance.BorderSize = 0;
             this.btnCOrder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCOrder.ForeColor = System.Drawing.Color.White;
-            this.btnCOrder.Location = new System.Drawing.Point(692, 447);
+            this.btnCOrder.Location = new System.Drawing.Point(692, 444);
             this.btnCOrder.Name = "btnCOrder";
             this.btnCOrder.Size = new System.Drawing.Size(155, 35);
             this.btnCOrder.TabIndex = 23;
