@@ -63,6 +63,26 @@ namespace POSales.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap barcodelogo_1_ {
+            get {
+                object obj = ResourceManager.GetObject("barcodelogo(1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap barcodelogo_2_ {
+            get {
+                object obj = ResourceManager.GetObject("barcodelogo(2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap simon_xpress_photos_website_0001_SimonXpress_02_jpg {
             get {
                 object obj = ResourceManager.GetObject("simon-xpress-photos-website_0001_SimonXpress-02.jpg", resourceCulture);

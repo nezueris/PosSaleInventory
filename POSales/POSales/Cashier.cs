@@ -29,6 +29,7 @@ namespace POSales
             cn = new SqlConnection(dbcon.myConnection());
             GetTranNo();
             lblDate.Text = DateTime.Now.ToShortDateString();
+            
         }
 
         private void picClose_Click(object sender, EventArgs e)
@@ -74,7 +75,7 @@ namespace POSales
         {
             slide(btnSettle);
             Settle settle = new Settle(this);
-            settle.txtSale.Text = lblDisplayTotal.Text;
+            settle.txtSale.Text = lblSaleTotal.Text;
             settle.ShowDialog();
         }
 
@@ -170,7 +171,7 @@ namespace POSales
         public void GetCartTotal()
         {
             double discount = double.Parse(lblDiscount.Text);
-            double sales = double.Parse(lblSaleTotal.Text) - discount;
+            double sales = double.Parse(lblSaleTotal.Text);
             double vat = sales * 0.12;//VAT: 12% of VAT Payable (Output Tax less Input Tax)
             double vatable = sales - vat;
 
@@ -398,6 +399,7 @@ namespace POSales
         private void Cashier_Load(object sender, EventArgs e)
         {
             Noti();
+            
         }
     }
 }

@@ -1,101 +1,141 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\",
+  "WorkspaceRootPath": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|c:\\users\\alan\\source\\repos\\possaleinventory\\posales\\posales\\dailysale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\dailysale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|c:\\users\\alan\\source\\repos\\possaleinventory\\posales\\posales\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\barcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|c:\\users\\alan\\source\\repos\\possaleinventory\\posales\\posales\\userproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\userproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|c:\\users\\dreym\\downloads\\posproject\\posales\\posales\\adjustments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\adjustments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|c:\\users\\alan\\source\\repos\\possaleinventory\\posales\\posales\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\cancelorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\cancelorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\brandmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\brandmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\adjustments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\adjustments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\adjustments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|c:\\users\\alan\\source\\repos\\possaleinventory\\posales\\posales\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|c:\\users\\dreym\\downloads\\posproject\\posales\\posales\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\settle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\settle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\settle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\settle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\settle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\settle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\cancelorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\cancelorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\brandmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\brandmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\posreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\posreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\dailysale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\dailysale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\userproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\userproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SalesInventoryDB/True/SqlTable/dbo.tbUser.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\posales\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\posales\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F11B4E-1B68-4FC6-ADEB-BB93F1BB5C34}|POSales\\POSales.csproj|solutionrelative:posales\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,7 +145,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,130 +154,85 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserProperties.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\UserProperties.cs",
-              "RelativeDocumentMoniker": "POSales\\UserProperties.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\UserProperties.cs [Design]",
-              "RelativeToolTip": "POSales\\UserProperties.cs [Design]",
+              "Title": "Adjustments.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Adjustments.cs",
+              "RelativeDocumentMoniker": "POSales\\Adjustments.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Adjustments.cs",
+              "RelativeToolTip": "POSales\\Adjustments.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T06:19:59.43Z",
+              "WhenOpened": "2024-11-06T07:22:32.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Product.cs",
+              "RelativeDocumentMoniker": "POSales\\Product.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Product.cs",
+              "RelativeToolTip": "POSales\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:51:06.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Barcode.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Barcode.cs",
+              "RelativeDocumentMoniker": "POSales\\Barcode.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Barcode.cs",
+              "RelativeToolTip": "POSales\\Barcode.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAqwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:50:44.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Barcode.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Barcode.cs",
+              "RelativeDocumentMoniker": "POSales\\Barcode.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Barcode.cs [Design]",
+              "RelativeToolTip": "POSales\\Barcode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:34:09.475Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserAccount.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\UserAccount.cs",
-              "RelativeDocumentMoniker": "POSales\\UserAccount.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\UserAccount.cs [Design]",
-              "RelativeToolTip": "POSales\\UserAccount.cs [Design]",
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Product.cs",
+              "RelativeDocumentMoniker": "POSales\\Product.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Product.cs [Design]",
+              "RelativeToolTip": "POSales\\Product.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T06:18:40.105Z",
+              "WhenOpened": "2024-11-04T07:52:38.565Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DailySale.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\DailySale.cs",
-              "RelativeDocumentMoniker": "POSales\\DailySale.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\DailySale.cs [Design]",
-              "RelativeToolTip": "POSales\\DailySale.cs [Design]",
+              "DocumentIndex": 20,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Discount.cs",
+              "RelativeDocumentMoniker": "POSales\\Discount.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Discount.cs",
+              "RelativeToolTip": "POSales\\Discount.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T06:18:28.259Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Login.cs",
-              "RelativeDocumentMoniker": "POSales\\Login.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Login.cs [Design]",
-              "RelativeToolTip": "POSales\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:21:23.245Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Dashboard.cs",
-              "RelativeDocumentMoniker": "POSales\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Dashboard.cs [Design]",
-              "RelativeToolTip": "POSales\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T11:37:07.748Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\MainForm.cs",
-              "RelativeDocumentMoniker": "POSales\\MainForm.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\MainForm.cs [Design]",
-              "RelativeToolTip": "POSales\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T10:39:41.639Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-04T07:51:54.002Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Cashier.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Cashier.cs",
-              "RelativeDocumentMoniker": "POSales\\Cashier.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Cashier.cs [Design]",
-              "RelativeToolTip": "POSales\\Cashier.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T11:12:10.53Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CancelOrder.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\CancelOrder.cs",
-              "RelativeDocumentMoniker": "POSales\\CancelOrder.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\CancelOrder.cs [Design]",
-              "RelativeToolTip": "POSales\\CancelOrder.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:32:19.159Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BrandModule.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\BrandModule.cs",
-              "RelativeDocumentMoniker": "POSales\\BrandModule.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\BrandModule.cs [Design]",
-              "RelativeToolTip": "POSales\\BrandModule.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:32:15.734Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Brand.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Brand.cs",
-              "RelativeDocumentMoniker": "POSales\\Brand.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Brand.cs [Design]",
-              "RelativeToolTip": "POSales\\Brand.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:27:50.916Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Adjustments.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Adjustments.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Adjustments.cs",
               "RelativeDocumentMoniker": "POSales\\Adjustments.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Adjustments.cs [Design]",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Adjustments.cs [Design]",
               "RelativeToolTip": "POSales\\Adjustments.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T04:27:26.687Z",
@@ -245,120 +240,280 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Login.cs",
-              "RelativeDocumentMoniker": "POSales\\Login.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Login.cs",
-              "RelativeToolTip": "POSales\\Login.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFMAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "AddUserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\AddUserForm.cs",
+              "RelativeDocumentMoniker": "POSales\\AddUserForm.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\AddUserForm.cs [Design]",
+              "RelativeToolTip": "POSales\\AddUserForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T10:54:38.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:35:11.034Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ChangePassword.cs",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\ChangePassword.cs",
-              "RelativeDocumentMoniker": "POSales\\ChangePassword.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\ChangePassword.cs",
-              "RelativeToolTip": "POSales\\ChangePassword.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Title": "Brand.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Brand.cs",
+              "RelativeDocumentMoniker": "POSales\\Brand.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Brand.cs [Design]",
+              "RelativeToolTip": "POSales\\Brand.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T05:27:47.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T04:27:50.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Alert.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Alert.cs",
-              "RelativeDocumentMoniker": "POSales\\Alert.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Alert.cs [Design]",
-              "RelativeToolTip": "POSales\\Alert.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:32:03.454Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AddUserForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\AddUserForm.cs",
-              "RelativeDocumentMoniker": "POSales\\AddUserForm.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\AddUserForm.cs [Design]",
-              "RelativeToolTip": "POSales\\AddUserForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T11:35:11.034Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AddUserForm.cs",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\AddUserForm.cs",
-              "RelativeDocumentMoniker": "POSales\\AddUserForm.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\AddUserForm.cs",
-              "RelativeToolTip": "POSales\\AddUserForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T11:19:51.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ThemeColor.cs",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\ThemeColor.cs",
-              "RelativeDocumentMoniker": "POSales\\ThemeColor.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\ThemeColor.cs",
-              "RelativeToolTip": "POSales\\ThemeColor.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwB0AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T11:23:42.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\MainForm.cs",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\MainForm.cs",
               "RelativeDocumentMoniker": "POSales\\MainForm.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\MainForm.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\MainForm.cs [Design]",
+              "RelativeToolTip": "POSales\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:39:41.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\MainForm.cs",
+              "RelativeDocumentMoniker": "POSales\\MainForm.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\MainForm.cs",
               "RelativeToolTip": "POSales\\MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAMAAAAAAAAAA==",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAqwMkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T11:35:53.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DBConnect.cs",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\DBConnect.cs",
-              "RelativeDocumentMoniker": "POSales\\DBConnect.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\DBConnect.cs",
-              "RelativeToolTip": "POSales\\DBConnect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "POSReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\POSReport.cs",
+              "RelativeDocumentMoniker": "POSales\\POSReport.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\POSReport.cs [Design]",
+              "RelativeToolTip": "POSales\\POSReport.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T10:46:49.408Z"
+              "WhenOpened": "2024-11-04T07:52:35.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Dashboard.cs",
-              "RelativeDocumentMoniker": "POSales\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Dashboard.cs",
-              "RelativeToolTip": "POSales\\Dashboard.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewBQAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Cashier.cs",
+              "RelativeDocumentMoniker": "POSales\\Cashier.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Cashier.cs",
+              "RelativeToolTip": "POSales\\Cashier.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAawK0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T10:49:12.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T07:52:57.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Settle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Settle.cs",
+              "RelativeDocumentMoniker": "POSales\\Settle.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Settle.cs [Design]",
+              "RelativeToolTip": "POSales\\Settle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:53:13.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cashier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Cashier.cs",
+              "RelativeDocumentMoniker": "POSales\\Cashier.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Cashier.cs [Design]",
+              "RelativeToolTip": "POSales\\Cashier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:12:10.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Login.cs",
+              "RelativeDocumentMoniker": "POSales\\Login.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Login.cs [Design]",
+              "RelativeToolTip": "POSales\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:21:23.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Login.cs",
+              "RelativeDocumentMoniker": "POSales\\Login.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Login.cs",
+              "RelativeToolTip": "POSales\\Login.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawIQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:54:38.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Settle.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Settle.cs",
+              "RelativeDocumentMoniker": "POSales\\Settle.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Settle.cs",
+              "RelativeToolTip": "POSales\\Settle.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAawIMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:53:19.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Settle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Settle.Designer.cs",
+              "RelativeDocumentMoniker": "POSales\\Settle.Designer.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Settle.Designer.cs",
+              "RelativeToolTip": "POSales\\Settle.Designer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:55:36.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BrandModule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\BrandModule.cs",
+              "RelativeDocumentMoniker": "POSales\\BrandModule.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\BrandModule.cs [Design]",
+              "RelativeToolTip": "POSales\\BrandModule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:32:15.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CancelOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\CancelOrder.cs",
+              "RelativeDocumentMoniker": "POSales\\CancelOrder.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\CancelOrder.cs [Design]",
+              "RelativeToolTip": "POSales\\CancelOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:32:19.159Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "Discount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Discount.cs",
+              "RelativeDocumentMoniker": "POSales\\Discount.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Discount.cs [Design]",
+              "RelativeToolTip": "POSales\\Discount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:51:41.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Dashboard.cs",
+              "RelativeDocumentMoniker": "POSales\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Dashboard.cs [Design]",
+              "RelativeToolTip": "POSales\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:37:07.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DailySale.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\DailySale.cs",
+              "RelativeDocumentMoniker": "POSales\\DailySale.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\DailySale.cs [Design]",
+              "RelativeToolTip": "POSales\\DailySale.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:18:28.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\UserAccount.cs",
+              "RelativeDocumentMoniker": "POSales\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\UserAccount.cs [Design]",
+              "RelativeToolTip": "POSales\\UserAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:18:40.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserProperties.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\UserProperties.cs",
+              "RelativeDocumentMoniker": "POSales\\UserProperties.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\UserProperties.cs [Design]",
+              "RelativeToolTip": "POSales\\UserProperties.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T06:19:59.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "POSales\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\ChangePassword.cs",
+              "RelativeToolTip": "POSales\\ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:27:47.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Alert.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Alert.cs",
+              "RelativeDocumentMoniker": "POSales\\Alert.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Alert.cs [Design]",
+              "RelativeToolTip": "POSales\\Alert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:32:03.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\AddUserForm.cs",
+              "RelativeDocumentMoniker": "POSales\\AddUserForm.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\AddUserForm.cs",
+              "RelativeToolTip": "POSales\\AddUserForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:19:51.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ThemeColor.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\ThemeColor.cs",
+              "RelativeDocumentMoniker": "POSales\\ThemeColor.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\ThemeColor.cs",
+              "RelativeToolTip": "POSales\\ThemeColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:23:42.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Dashboard.cs",
+              "RelativeDocumentMoniker": "POSales\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Dashboard.cs",
+              "RelativeToolTip": "POSales\\Dashboard.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:49:12.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "dbo.tbUser.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SalesInventoryDB/True/SqlTable/dbo.tbUser.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/SalesInventoryDB/True/SqlTable/dbo.tbUser.sql",
@@ -367,40 +522,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Program.cs",
               "RelativeDocumentMoniker": "POSales\\Program.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Program.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\Program.cs",
               "RelativeToolTip": "POSales\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowBIAAAAMAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T10:54:27.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Cashier.cs",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Cashier.cs",
-              "RelativeDocumentMoniker": "POSales\\Cashier.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\Cashier.cs",
-              "RelativeToolTip": "POSales\\Cashier.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAIMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T11:12:26.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "UserAccount.cs",
-              "DocumentMoniker": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\UserAccount.cs",
               "RelativeDocumentMoniker": "POSales\\UserAccount.cs",
-              "ToolTip": "C:\\Users\\alan\\source\\repos\\PosSaleInventory\\POSales\\POSales\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\dreym\\Downloads\\POSProject\\POSales\\POSales\\UserAccount.cs",
               "RelativeToolTip": "POSales\\UserAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T10:41:05.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T10:41:05.001Z"
             }
           ]
         }

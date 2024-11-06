@@ -197,6 +197,10 @@ namespace POSales
             cn.Close();
         }
 
-        
+        private void btnBarcode_Click(object sender, EventArgs e)
+        {
+            openChildForm(new Barcode());
+            hideSubmenu();
+        }
     }
 }

@@ -126,5 +126,14 @@ namespace POSales
                 btnLogin.PerformClick();
             }
         }
+
+        private void txtName_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == 13) // Check if Enter is pressed
+            {
+                txtPass.Focus(); // Set focus to txtPass
+                e.Handled = true; // Prevent any other actions from occurring
+            }
+        }
     }
 }
